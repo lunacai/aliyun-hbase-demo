@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.flipkart:hbase-object-mapper:1.18">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/flipkart/hbase-object-mapper/1.18/hbase-object-mapper-1.18.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/flipkart/hbase-object-mapper/1.18/hbase-object-mapper-1.18-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/flipkart/hbase-object-mapper/1.18/hbase-object-mapper-1.18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

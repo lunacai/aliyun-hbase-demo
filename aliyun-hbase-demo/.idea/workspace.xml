@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="249a0564-caa0-4343-8188-48b0a36290b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1odOmwXNK6BHh5K6Mt8YgEzJmXX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.aliyunhbasedemo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AliyunHbaseDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="aliyun-hbase-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.aliyunhbasedemo.AliyunHbaseDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="249a0564-caa0-4343-8188-48b0a36290b2" name="Default Changelist" comment="" />
+      <created>1613613163862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613613163862</updated>
+      <workItem from="1613613168513" duration="1853000" />
+      <workItem from="1613627584933" duration="4430000" />
+      <workItem from="1613973340250" duration="172000" />
+      <workItem from="1614047020807" duration="1437000" />
+      <workItem from="1614072512847" duration="978000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="278" key="GridCell.Tab.0.bottom" timestamp="1614061311884">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="278" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1614061311884" />
+    <state width="1398" height="278" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1613632007529" />
+    <state width="1398" height="278" key="GridCell.Tab.0.center" timestamp="1614061311882">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="278" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1614061311882" />
+    <state width="1398" height="278" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1613632007527" />
+    <state width="1398" height="278" key="GridCell.Tab.0.left" timestamp="1614061311882">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="278" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1614061311882" />
+    <state width="1398" height="278" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1613632007526" />
+    <state width="1398" height="278" key="GridCell.Tab.0.right" timestamp="1614061311883">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="278" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1614061311883" />
+    <state width="1398" height="278" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1613632007528" />
+    <state width="1398" height="278" key="GridCell.Tab.1.bottom" timestamp="1614047203236">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="278" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1614047203236" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1613629275539" />
+    <state width="1398" height="278" key="GridCell.Tab.1.center" timestamp="1614047203235">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="278" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1614047203235" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1613629275537" />
+    <state width="1398" height="278" key="GridCell.Tab.1.left" timestamp="1614047203235">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="278" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1614047203235" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1613629275536" />
+    <state width="1398" height="278" key="GridCell.Tab.1.right" timestamp="1614047203236">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="278" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1614047203236" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1613629275538" />
+    <state width="1398" height="303" key="GridCell.Tab.2.bottom" timestamp="1613632235695">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1613632235695" />
+    <state width="1398" height="303" key="GridCell.Tab.2.center" timestamp="1613632235693">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1613632235693" />
+    <state width="1398" height="303" key="GridCell.Tab.2.left" timestamp="1613632235692">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1613632235692" />
+    <state width="1398" height="303" key="GridCell.Tab.2.right" timestamp="1613632235694">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1613632235694" />
+    <state x="378" y="207" width="683" height="486" key="find.popup" timestamp="1613627782905">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="207" width="683" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1613627782905" />
+    <state x="97" y="154" key="new project wizard" timestamp="1613614436289">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="97" y="154" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1613614436289" />
+  </component>
+</project>
